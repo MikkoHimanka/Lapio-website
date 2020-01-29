@@ -1,0 +1,23 @@
+div {
+	width: 200px;
+	height: 100px;
+	margin: 10px;
+}
+
+.eka {
+	background-color: red;
+}
+
+.toka {
+	background-color: yellow;
+	position: relative;
+	top: -110px;
+	left: 210px;
+}
+
+.koka {
+	background-color: green;
+	position: relative;
+	top: -220px;
+	left: 420px;
+}
