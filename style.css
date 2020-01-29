@@ -1,15 +1,32 @@
 body {
-	color: brown;
+	font-size: small;
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	line-height: 1.5;
+	padding: 4em 1em;
+	color: #555;
 }
 
 ul {
-	color: violet;
+	font-weight: bold;
+	font-size: small;
 }
 
-h1 {
-	color: blue;
+ul ul {
+	font-weight: normal;
+}
+
+h1, h2, h3 {
+	color: #333;
+	margin-top: 1em;
+	padding-top: 1em;
 }
 
 .jatkuu {
-	color: red;
+	color: #444;
+	text-align: center;
+	padding: 2px auto;
+	vertical-align: text-bottom;
+	font-style: italic;
 }
